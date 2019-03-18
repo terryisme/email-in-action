@@ -13,7 +13,6 @@
 邮件种类
 
 
-
 先说邮件的种类，一般来说有四种：
 
 无需回复的邮件。
@@ -27,7 +26,6 @@
 
 
 邮件组成
-
 那么怎么写好一封邮件呢？
 
 首先我们得弄清楚邮件的组成：
@@ -47,21 +45,17 @@ BCC
 
 
 如何写邮件
-
 收件人
-
 收件人是你要发送给谁的，是邮件的直接接收者。可能收件人会有多个，因为他们这几个人都是直接的接收者。
 
 
 
 CC
-
 CC一般是指抄送，FYI的目的，让CC的人知道就行了，但是不建议把不太相关的人放到这里，因为绝大部分人只关心和自己有关的事情和邮件。把一些不相关的邮件发送给不相关的人，可能会对方起到骚扰作用。
 
 
 
 BCC
-
 密送，既然是密送，在To,CC里的人不知道BCC里的人列表。这个某些情况下非常有用，可以保护一些隐私。举个例子，我收到过很多离职邮件，一般人可能这么写。
 
 发件人：David Cook
@@ -77,7 +71,6 @@ BCC
 
 
 邮件标题
-
 邮件标题非常重要，这是能够快速了解邮件目的的最直接的信息。试想，一般来说邮件进入我们的收件箱里，都是邮件列表里的一条记录而已，如果你想看具体内容，还得单击或者双击一下该邮件记录。所以，为了让收件人快速理解邮件的主题，邮件标题是最好的入门。
 
 合理的邮件标题会让人省时间，觉得你非常专业。
@@ -113,7 +106,6 @@ Subject：[ACTION REQUIRED] Finish your PR's last step before this Friday(3/20)
 
 
 开场白
-
 一般情况下，开场白还是直接说事儿，让对方明白邮件的意图，因为Subject line已经简单说了，我们可以再说的详细一些。接上面的例子，例如可以如下：
 
 Hi David,I would like to know if you can join the meeting about the visiting Japan at 10:30AM in next Monday, as it is very important for us to make a decision. Then the procedure can move forward，that is helpful to be behind the schedule. If you can't, please DO let us know, then we can make another meeting.
@@ -129,7 +121,6 @@ Hi David,I would like to know if you can join the meeting about the visiting Jap
 
 
 消息体
-
 主要还是对邮件的主题详细描述，作为主题的支撑，讲事实，讲道理，将为什么要写这封邮件。
 
 同时，邮件的topic最好不要超过一个，这样易于阅读和专注。如果是多个的话，一是分心，二是处理起来略微麻烦一些。
@@ -146,7 +137,6 @@ Hi David,I would like to know if you can join the meeting about the visiting Jap
 注意使用空格和空行，如果文字堆积到一块，对人有压迫感。如果给出适当空白，会让人放松很多。这有点类似写代码的风格。
 
 结束语
-
  结束语很重要，主要用来：
 
 总结你的观点
@@ -156,17 +146,14 @@ Hi David,I would like to know if you can join the meeting about the visiting Jap
 
 
 签名
-
 上面没说到签名，其实还是要做的。分为2种情况：
 
 公司内部
-
 是指邮件发给公司内部的，大家可能都知道你，写出名字、分机，手机即可。如果大点的公司，需要带上职位，所在部门。
 
 
 
 公司外部
-
 如果收件人是客户或者其他人，需要以下信息：
 
 名字（中文名+英文名）
@@ -180,7 +167,6 @@ Skpye或QQ或微信，如果需要的话
 
 
 Disclaimer
-
 在一些公司法律做的比较完善，在邮件最后面会加上一些Disclaimer，主要是为了保护一些相关信息吧。
 
 
@@ -194,4 +180,3 @@ to,cc的联系人怎么加，联系人顺序的问题？
 邮件编辑的技巧
 ...
 后面会慢慢补上。
-
